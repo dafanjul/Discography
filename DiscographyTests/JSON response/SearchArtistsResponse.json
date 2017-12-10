@@ -1,0 +1,118 @@
+{
+    "resultCount": 12,
+    "results": [
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Jack Johnson",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/jack-johnson/909253?uo=4",
+                "artistId": 909253,
+                "amgArtistId": 468749,
+                "primaryGenreName": "Rock",
+                "primaryGenreId": 21
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Zach Gill",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/zach-gill/79223185?uo=4",
+                "artistId": 79223185,
+                "amgArtistId": 649174,
+                "primaryGenreName": "Rock",
+                "primaryGenreId": 21
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Matt Costa",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/matt-costa/57199560?uo=4",
+                "artistId": 57199560,
+                "amgArtistId": 651403,
+                "primaryGenreName": "Rock",
+                "primaryGenreId": 21
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "The Roots",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/the-roots/43680?uo=4",
+                "artistId": 43680,
+                "amgArtistId": 168531,
+                "primaryGenreName": "Hip-Hop/Rap",
+                "primaryGenreId": 18
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Jack Johnson",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/jack-johnson/1016078509?uo=4",
+                "artistId": 1016078509,
+                "primaryGenreName": "Ska",
+                "primaryGenreId": 1194
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Author",
+                "artistName": "Manuel Garcia",
+                "artistLinkUrl": "https://itunes.apple.com/us/author/manuel-garcia/id272783448?mt=11&uo=4",
+                "artistId": 272783448,
+                "primaryGenreName": "Graphic Novels",
+                "primaryGenreId": 10015
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Paula Fuga",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/paula-fuga/159380642?uo=4",
+                "artistId": 159380642,
+                "amgArtistId": 780485,
+                "primaryGenreName": "Reggae",
+                "primaryGenreId": 24
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Silvia Tómas",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/silvia-t%C3%B3mas/663930950?uo=4",
+                "artistId": 663930950,
+                "primaryGenreName": "Soundtrack",
+                "primaryGenreId": 16
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Silvia Thomás",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/silvia-thom%C3%A1s/624104635?uo=4",
+                "artistId": 624104635,
+                "primaryGenreName": "Soundtrack",
+                "primaryGenreId": 16
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Jack Johnson",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/jack-johnson/979674607?uo=4",
+                "artistId": 979674607,
+                "primaryGenreName": "House",
+                "primaryGenreId": 1048
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Jack Johnson",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/jack-johnson/548543874?uo=4",
+                "artistId": 548543874,
+                "primaryGenreName": "Dance",
+                "primaryGenreId": 17
+                },
+                {
+                "wrapperType": "artist",
+                "artistType": "Artist",
+                "artistName": "Jack Johnson",
+                "artistLinkUrl": "https://itunes.apple.com/us/artist/jack-johnson/435621392?uo=4",
+                "artistId": 435621392,
+                "primaryGenreName": "Christian & Gospel",
+                "primaryGenreId": 22
+                }
+                ]
+}
